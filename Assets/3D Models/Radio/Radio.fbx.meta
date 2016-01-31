@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: ef71650024f3da84190f04a86e85287f
+timeCreated: 1454152128
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AluminiumPanel
+    100002: AntenaInput
+    100004: Arrow
+    100006: BackPaperPanel
+    100008: Cube.001
+    100010: FabricPatern
+    100012: FrequencySwitcher
+    100014: FrontDecals
+    100016: Glass
+    100018: HideEmptySpace
+    100020: HideEmptySpace.001
+    100022: MiddlePart
+    100024: //RootNode
+    100026: Screw
+    100028: Screw.001
+    100030: Screw.002
+    100032: Screw.003
+    100034: Turner
+    100036: VoltageCable
+    100038: VoltageSwitch
+    100040: Volume
+    400000: AluminiumPanel
+    400002: AntenaInput
+    400004: Arrow
+    400006: BackPaperPanel
+    400008: Cube.001
+    400010: FabricPatern
+    400012: FrequencySwitcher
+    400014: FrontDecals
+    400016: Glass
+    400018: HideEmptySpace
+    400020: HideEmptySpace.001
+    400022: MiddlePart
+    400024: //RootNode
+    400026: Screw
+    400028: Screw.001
+    400030: Screw.002
+    400032: Screw.003
+    400034: Turner
+    400036: VoltageCable
+    400038: VoltageSwitch
+    400040: Volume
+    2300000: AluminiumPanel
+    2300002: AntenaInput
+    2300004: Arrow
+    2300006: BackPaperPanel
+    2300008: Cube.001
+    2300010: FabricPatern
+    2300012: FrequencySwitcher
+    2300014: FrontDecals
+    2300016: Glass
+    2300018: HideEmptySpace
+    2300020: HideEmptySpace.001
+    2300022: MiddlePart
+    2300024: Screw
+    2300026: Screw.001
+    2300028: Screw.002
+    2300030: Screw.003
+    2300032: Turner
+    2300034: VoltageCable
+    2300036: VoltageSwitch
+    2300038: Volume
+    3300000: AluminiumPanel
+    3300002: AntenaInput
+    3300004: Arrow
+    3300006: BackPaperPanel
+    3300008: Cube.001
+    3300010: FabricPatern
+    3300012: FrequencySwitcher
+    3300014: FrontDecals
+    3300016: Glass
+    3300018: HideEmptySpace
+    3300020: HideEmptySpace.001
+    3300022: MiddlePart
+    3300024: Screw
+    3300026: Screw.001
+    3300028: Screw.002
+    3300030: Screw.003
+    3300032: Turner
+    3300034: VoltageCable
+    3300036: VoltageSwitch
+    3300038: Volume
+    4300000: VoltageCable
+    4300002: HideEmptySpace
+    4300004: HideEmptySpace.001
+    4300006: Volume
+    4300008: Screw
+    4300010: Screw.002
+    4300012: Screw.003
+    4300014: FrontDecals
+    4300016: FabricPatern
+    4300018: Arrow
+    4300020: AluminiumPanel
+    4300022: FrequencySwitcher
+    4300024: Glass
+    4300026: Turner
+    4300028: BackPaperPanel
+    4300030: Screw.001
+    4300032: VoltageSwitch
+    4300034: AntenaInput
+    4300036: Cube.001
+    4300038: MiddlePart
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

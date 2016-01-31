@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 4392af50a8349914c88d060582f666a0
+timeCreated: 1454187096
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box01
+    100002: Box13
+    100004: Box33
+    100006: Box34
+    100008: Camera01
+    100010: Camera01.Target
+    100012: Camera02
+    100014: Camera02.Target
+    100016: //RootNode
+    100018: Compass01
+    100020: Daylight01
+    100022: Group01
+    100024: Line01
+    100026: Line03
+    100028: Sky02
+    100030: Sphere01
+    100032: Sphere02
+    100034: Spot01
+    100036: Spot01.Target
+    100038: Sun02
+    100040: Tube03
+    400000: Box01
+    400002: Box13
+    400004: Box33
+    400006: Box34
+    400008: Camera01
+    400010: Camera01.Target
+    400012: Camera02
+    400014: Camera02.Target
+    400016: //RootNode
+    400018: Compass01
+    400020: Daylight01
+    400022: Group01
+    400024: Line01
+    400026: Line03
+    400028: Sky02
+    400030: Sphere01
+    400032: Sphere02
+    400034: Spot01
+    400036: Spot01.Target
+    400038: Sun02
+    400040: Tube03
+    2300000: Box01
+    2300002: Box13
+    2300004: Box33
+    2300006: Box34
+    2300008: Line01
+    2300010: Line03
+    2300012: Sphere01
+    2300014: Sphere02
+    2300016: Tube03
+    3300000: Box01
+    3300002: Box13
+    3300004: Box33
+    3300006: Box34
+    3300008: Line01
+    3300010: Line03
+    3300012: Sphere01
+    3300014: Sphere02
+    3300016: Tube03
+    4300000: Line01
+    4300002: Box13
+    4300004: Line03
+    4300006: Box33
+    4300008: Sphere02
+    4300010: Sphere01
+    4300012: Tube03
+    4300014: Box34
+    4300016: Box01
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
